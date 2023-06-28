@@ -1,0 +1,32 @@
+html 
+{
+    background-color: #90e099;
+}
+
+h1 
+{
+    color: darkgreen;
+    font-size: 64px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 68px;
+}
+
+.linkgroup
+{
+    color: white;
+    font-size: 48px;
+    text-align: center;
+    background-color: darkgreen;
+    border-radius: 10px;
+    padding: 20px;
+}
+.linkgroup a 
+{
+    margin: 48px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
